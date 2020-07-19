@@ -1,6 +1,10 @@
 #Author: Shrishail Talukar
 #Email: shrishailtalukar@gmail.com
 
+# A simple text editor, capable for creating a file, opening a file, and saving a file
+# Feel free to improve the software
+# Python 3x, and QtPy/PyQt5 is used
+
 import sys
 from qtpy import QtGui, QtCore, QtWidgets
 
