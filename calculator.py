@@ -1,3 +1,6 @@
+#Author: Shrishail Talukar
+#Email: shrishailtalukar@gmail.com
+
 import sys
 from qtpy import QtGui, QtCore, QtWidgets
 
